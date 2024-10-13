@@ -1,0 +1,17 @@
+body{background-image: url(imagenes/PApper`s.png);
+    width: 90%;;
+text-align: center;
+font-family: sans-serif;}
+
+
+
+head{background: hwb(61 33% 43% / 0.329);}
+
+a{background: #fbff00;
+display: flex;
+width: 100%;
+font-family: sans-serif;
+text-align: end;
+border: 100% solid;}
+
+h2{background: rosybrown;}
